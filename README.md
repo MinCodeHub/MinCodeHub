@@ -43,7 +43,7 @@
 
 |Name|Explanation|Duration|Role|Tool & Stack|Notion|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|STARD|한방에 모든 것을, 올 인원(all in one) 스터디 웹 플랫폼|2023/04/17~2024/03 예정|FrontEnd|![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)|[StarD](https://www.notion.so/all-in-one-d556266c13304bdb85444a6fc61b991d)|
+|STARD|한방에 모든 것을, 올 인원(all in one) 스터디 웹 플랫폼|2023/07/17~2024/03 예정|FrontEnd|![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)|[StarD](https://www.notion.so/all-in-one-d556266c13304bdb85444a6fc61b991d)|
 |Whole-ro|1인 가구를 위한 웹 서비스 Whole-ro|2023/11/14~2023/12/22|FrontEnd,BackEnd|![Static Badge](https://img.shields.io/badge/MyBatis-green)![Static Badge](https://img.shields.io/badge/JSP-blue)![Static Badge](https://img.shields.io/badge/java-yellow)![Static Badge](https://img.shields.io/badge/SQLDeveloper-%20pink)|[Whole-ro](https://www.notion.so/1-Whole-ro-10237a272ba449bcbb1f2e804144c822)|
 
 <h2 align="left">📝 Blog</h2>

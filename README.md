@@ -4,12 +4,14 @@
 스스로 A부터 Z까지 하나의 프로젝트를 만들수 있는 역량을 기르고 싶습니다.<br/>
 현재 Spring을 공부 중입니다.<br/>
 대용량 처리 시스템을 공부하고 싶습니다.<br/></p>
+
+
+
 <h2 align="left">👨‍💻Profile</h2>
-
 [안녕하세요, 허민영입니다😊](https://www.notion.so/5099cd314ab64834ba24d9a1e3b53bb4)
-
-
 <h2 align="left">📚Skills</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjalsdud1030)](https://solved.ac/gjalsdud1030/)
 
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)

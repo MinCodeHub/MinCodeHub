@@ -53,8 +53,6 @@
 <h2 align="left">📝 Blog</h2>
 
 - 📝 [티스토리-신뇽이되어보자](https://dragonair148.tistory.com/)
-- 📝 [Velog-노력이라는 재능을 가진 개발자](https://velog.io/@mignon_eu21/posts)
-
 
 
 

@@ -9,7 +9,7 @@
 
 <h2 align="left">👨‍💻Profile</h2>
 
-[안녕하세요, 허민영입니다😊](https://www.notion.so/5099cd314ab64834ba24d9a1e3b53bb4)
+[안녕하세요, 허민영입니다😊](https://www.notion.so/ea02b4e22e2d49c3a593a944c3717a9f)
 
 <h2 align="left">📚Skills</h2>
 

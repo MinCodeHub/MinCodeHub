@@ -1,19 +1,9 @@
-<h1 align="center">Hi 👋, I'm MinCodeHub</h1>
-<h3 align="center">🍒안녕하세요🍒</h3>
-<p align="center">웹의 전반적인 이해도가 깊은 개발자가 되고싶은 허민영(MinCodeHub)입니다.<br/>
-스스로 A부터 Z까지 하나의 프로젝트를 만들수 있는 역량을 기르고 싶습니다.<br/>
-현재 Spring을 공부 중입니다.<br/>
-대용량 처리 시스템을 공부하고 싶습니다.<br/></p>
+<h1>Hi 👋, I'm MinCodeHub</h1>
 
-
-
-<h2 align="left">👨‍💻Profile</h2>
-
-[안녕하세요, 허민영입니다😊](https://www.notion.so/ea02b4e22e2d49c3a593a944c3717a9f)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjalsdud1030)](https://solved.ac/gjalsdud1030/)
 
 <h2 align="left">📚Skills</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjalsdud1030)](https://solved.ac/gjalsdud1030/)
 
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)

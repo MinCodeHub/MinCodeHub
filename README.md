@@ -32,14 +32,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 |STARD|교내 소프트웨어 경진대회<br/>한방에 모든 것을, 올 인원(all in one) 스터디 웹 플랫폼|2023/11/01|우수상|<img src="https://github.com/MinCodeHub/MinCodeHub/assets/80142915/f2814f2b-1f30-4689-8f3d-efa20adc987e" width="300" height="200" />
 
-
-<h2 align="left">🎥Project</h2>
-
-|Name|Explanation|Duration|Role|Tool & Stack|Notion|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|STARD|한방에 모든 것을, 올 인원(all in one) 스터디 웹 플랫폼|2023/08/18~2024/03|FrontEnd|![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)|[StarD](https://www.notion.so/all-in-one-d556266c13304bdb85444a6fc61b991d)|
-|Whole-ro|1인 가구를 위한 웹 서비스 Whole-ro|2023/11/14~2023/12/22|FrontEnd,BackEnd|![Static Badge](https://img.shields.io/badge/MyBatis-green)![Static Badge](https://img.shields.io/badge/JSP-blue)![Static Badge](https://img.shields.io/badge/java-yellow)![Static Badge](https://img.shields.io/badge/SQLDeveloper-%20pink)|[Whole-ro](https://www.notion.so/1-Whole-ro-10237a272ba449bcbb1f2e804144c822)|
-
 <h2 align="left">📝 Blog</h2>
 
 - 📝 [티스토리-신뇽이되어보자](https://dragonair148.tistory.com/)

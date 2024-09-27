@@ -24,11 +24,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
 
-<h2 align="left">👑Award</h2>
-2023/11/01 <br/> 교내 소프트웨어 경진대회<br/>한방에 모든 것을, 올 인원(all in one) 스터디 웹 플랫폼 우수상
-
-<br/>
-<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjalsdud1030)](https://solved.ac/gjalsdud1030/)
 

@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm MinCodeHub</h1>
 
-<h2 align="left">📚Skills</h2>
+<h2 align="left">📚Skills📚</h2>
 
 
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?logo=html5&logoColor=white)

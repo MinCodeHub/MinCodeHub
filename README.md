@@ -6,7 +6,6 @@
 ![Static Badge](https://img.shields.io/badge/Html-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/kotlin-blue?logo=kotlin&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/java-yellow)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
@@ -21,8 +20,6 @@
 ![Static Badge](https://img.shields.io/badge/aws-%23232F3E?logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?logo=github&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjalsdud1030)](https://solved.ac/gjalsdud1030/)

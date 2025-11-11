@@ -10,4 +10,4 @@
 
 또한 작업한 내용을 문서화하여 팀 전체가 공통된 이해를 가질 수 있도록 노력하고 있습니다.
 
-[이력서](https://gamy-molecule-3e1.notion.site/Backend-Developer-25a60b1c7f7780f5a918d83331dd6bd5) |  [포트폴리오](https://www.notion.so/Java-Spring-2a560b1c7f7780ba8ad8f4b6ed5649df)
+[이력서](https://gamy-molecule-3e1.notion.site/Backend-Developer-25a60b1c7f7780f5a918d83331dd6bd5) |  [포트폴리오](https://www.notion.so/Java-Spring-2a560b1c7f7780ba8ad8f4b6ed5649df) | [블로그](https://mincodhub.tistory.com/)

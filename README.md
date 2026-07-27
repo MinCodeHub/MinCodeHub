@@ -29,57 +29,36 @@ AI Agent • RAG • FastAPI • Spring • React
 ### 💻 Backend
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring" />
 </p>
 
 ### 🤖 AI
 
 <p align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE)
-
+  <img src="https://skillicons.dev/icons?i=openai" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
 ### 🗄 Database
 
 <p align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791)
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🛠 Tools
 
 <p align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,vscode,figma" />
 </p>
-
 ---
 
 ## 📜 Certifications

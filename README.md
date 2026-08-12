@@ -59,7 +59,9 @@ AI Agent • RAG • FastAPI • Spring • React
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,vscode,figma" />
 </p>
+
 ---
+
 
 ## 📜 Certifications
 
@@ -75,10 +77,6 @@ AI Agent • RAG • FastAPI • Spring • React
 
 ## 🍀 복지모니 (BokjiMoni)
 
-<p align="center">
-  <img src="images/bokjimoni.png" width="800"/>
-</p>
-
 > **LangGraph 기반 복지 정책 AI Agent 및 RAG 서비스**
 
 ### ✨ Features
@@ -91,17 +89,11 @@ AI Agent • RAG • FastAPI • Spring • React
 
 `FastAPI` `LangGraph` `OpenAI` `PostgreSQL` `pgvector`
 
-🔗 **Repository** : https://github.com/your-id/bokjimoni
-
-🔗 **Notion** : https://...
+🔗 **Repository** : https://github.com/orgs/BokJumoney/repositories
 
 ---
 
 ## 🚑 응급길 (Emergency Road)
-
-<p align="center">
-  <img src="images/emergency-road.png" width="800"/>
-</p>
 
 > **위치 기반 응급실 추천 서비스**
 
@@ -115,17 +107,11 @@ AI Agent • RAG • FastAPI • Spring • React
 
 `Spring Boot` `React` `MySQL` `Kakao Map`
 
-🔗 **Repository** : https://github.com/your-id/...
-
-🔗 **Notion** : https://...
+🔗 **Repository** : https://github.com/orgs/SmartItcenLife/repositories
 
 ---
 
 ## 🛒 MSA 기반 중고거래 플랫폼
-
-<p align="center">
-  <img src="images/msa-market.png" width="800"/>
-</p>
 
 > **한이음 ICT 멘토링 인력양성 프로그램**
 
@@ -139,9 +125,7 @@ AI Agent • RAG • FastAPI • Spring • React
 
 `Spring Boot` `React` `Docker` `MSA`
 
-🔗 **Repository** : https://github.com/your-id/...
-
-🔗 **Notion** : https://...
+🔗 **Repository** : https://github.com/orgs/Hanium2025/repositories
 
 ---
 
